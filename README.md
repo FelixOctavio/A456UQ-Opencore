@@ -1,7 +1,7 @@
 # Opencore (Hackintosh EFI) for ASUS A456UQ (I7 7500U + 940MX)
 Tested on Big Sur 11.2.3
 
-/Big Sur.png
+/Screenshot.png
 
 ## Specification:
 + CPU : Intel Core I7 7500U 2.71 Ghz
