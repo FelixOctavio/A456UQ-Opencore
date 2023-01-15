@@ -22,6 +22,7 @@ Tested on Big Sur 11.2.3
 + Audio + 3.5mm audio jack
 + Internal Mic
 + Wifi
++ LAN
 + Usb Ports
 + Touchpad
 + Built-in Webcam
@@ -29,7 +30,7 @@ Tested on Big Sur 11.2.3
 + Ethernet port
 + Bluetooth
 + Brightness
-+ Asus Fn key
++ Asus FN hotkey
 + Touchpad
 + Battery Indicator
 
