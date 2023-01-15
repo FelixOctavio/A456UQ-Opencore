@@ -7,7 +7,7 @@ Tested on Big Sur 11.2.3
 + CPU : Intel Core I7 7500U 2.71 Ghz
 + IGPU : Intel HD Graphics 620
 + DGPU : Nvidia GeForce 940MX (disabled)
-+ Storage : Crucial MX500 512GB SSD
++ Storage : Crucial MX500 512GB SSD + 1TB HDD HGST
 + RAM : Built-in Micron 4GB 2133Mhz DDR4 (Soldered) + Micron 8GB 2133Mhz Dual Rank DDR4
 + Wifi + Bluetooth : Qualcomm Atheros (?)
 + Audio : Conexant CX8050
