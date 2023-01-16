@@ -19,8 +19,8 @@ Tested on Ventura 13.1
 
 ## Works:
 + IGPU
-+ Sleep
-+ Touchpad
++ Sleep (Works in mac, but not working in windows)
++ Touchpad (Works in mac, but not working in windows)
 + Audio + 3.5mm audio jack
 + Internal Mic
 + LAN
@@ -29,7 +29,7 @@ Tested on Ventura 13.1
 + Built-in Webcam
 + HDMI port (Need to replug every boot)
 + Ethernet port
-+ Brightness
++ Brightness (Works in mac, but not working in windows)
 + Asus FN hotkey
 + Battery Indicator
 
