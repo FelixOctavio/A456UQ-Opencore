@@ -8,7 +8,7 @@ Tested on Ventura 13.1
 + IGPU : Intel HD Graphics 620
 + DGPU : Nvidia GeForce 940MX (disabled)
 + Storage : Crucial MX500 512GB SSD + 1TB HDD HGST
-+ RAM : Built-in Micron 4GB 2133Mhz DDR4 (Soldered) + Micron 8GB 2133Mhz Dual Rank DDR4
++ RAM : Samsung M471A5143EB0-CPB 4GB 2133Mhz DDR4 (Soldered) + Micron 16ATF1G64HZ-2G1B1 8GB 2133Mhz Dual Rank DDR4
 + Wifi + Bluetooth : Qualcomm Atheros AR956x
 + Audio : Conexant CX8050
 + Ethernet : Realtek RTL8111
