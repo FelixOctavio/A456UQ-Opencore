@@ -9,7 +9,7 @@ Tested on Big Sur 11.2.3
 + DGPU : Nvidia GeForce 940MX (disabled)
 + Storage : Crucial MX500 512GB SSD + 1TB HDD HGST
 + RAM : Built-in Micron 4GB 2133Mhz DDR4 (Soldered) + Micron 8GB 2133Mhz Dual Rank DDR4
-+ Wifi + Bluetooth : Qualcomm Atheros (?)
++ Wifi + Bluetooth : Qualcomm Atheros AR956x
 + Audio : Conexant CX8050
 + Ethernet : Realtek RTL8111
 + Port USB : 1x USB 2.0, 1x USB 3.0, 1x USB 3.1 Type-C non-Thunderbolt
@@ -21,7 +21,7 @@ Tested on Big Sur 11.2.3
 + IGPU
 + Audio + 3.5mm audio jack
 + Internal Mic
-+ Wifi
++ Wifi (Working in Big Sur, not working in Ventura)
 + LAN
 + Usb Ports
 + Touchpad
@@ -37,6 +37,6 @@ Tested on Big Sur 11.2.3
 ## Not work / bug:
 + iCloud / iService (untested)
 + Appstore (untested)
-+ Sleep (untested)
++ Sleep (not working in Ventura)
 + Card reader (untested)
 + HDMI need to replug every boot
