@@ -19,6 +19,8 @@ Tested on Ventura 13.1
 
 ## Works:
 + IGPU
++ Sleep
++ Touchpad
 + Audio + 3.5mm audio jack
 + Internal Mic
 + LAN
@@ -27,7 +29,6 @@ Tested on Ventura 13.1
 + Built-in Webcam
 + HDMI port (Need to replug every boot)
 + Ethernet port
-+ Bluetooth (Untested, but detected)
 + Brightness
 + Asus FN hotkey
 + Battery Indicator
@@ -35,7 +36,5 @@ Tested on Ventura 13.1
 ## Not work:
 + iCloud / iService (untested)
 + Appstore (untested)
-+ Touchpad
-+ Sleep
-+ Wifi
++ Wifi and bluetooth
 + Card reader (untested + not detected in mac)
