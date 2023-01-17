@@ -1,4 +1,4 @@
-# Opencore (Hackintosh EFI) for ASUS A456UQ (I7 7500U + 940MX)
+# Opencore (Hackintosh EFI) for ASUS A456UQ (i7 7500U + 940MX)
 Tested on Ventura 13.1
 
 ![Ini Screenshot](/Screenshot.png)
@@ -28,6 +28,7 @@ Tested on Ventura 13.1
 + Touchpad
 + Built-in Webcam
 + HDMI port (Need to replug every boot)
++ VGA Port
 + Ethernet port
 + Brightness
 + Asus FN hotkey
