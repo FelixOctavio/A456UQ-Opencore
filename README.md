@@ -1,3 +1,5 @@
+# This repo is not maintained anymore
+
 # Opencore (Hackintosh EFI) for ASUS A456UQ (i7 7500U + 940MX)
 Tested on Ventura 13.1
 
@@ -39,3 +41,6 @@ Tested on Ventura 13.1
 + Appstore (untested)
 + Wifi and bluetooth
 + Card reader (untested + not detected in mac)
+
+Note:
+- Battery drain while sleep
